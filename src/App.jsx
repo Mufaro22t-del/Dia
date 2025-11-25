@@ -287,7 +287,7 @@ function App() {
           <div className="order-1 md:order-2">
             <div className="rounded-3xl overflow-hidden shadow-lg">
                 <img
-                  src="/DMC/new-photos/IMG_3929.JPG"
+                  src={`${import.meta.env.BASE_URL}DMC/new-photos/IMG_3929.JPG`}
                   alt="Diamond Management Co team"
                   className="w-full h-full object-cover"
                 />
