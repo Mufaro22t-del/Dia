@@ -286,11 +286,11 @@ function App() {
 
           <div className="order-1 md:order-2">
             <div className="rounded-3xl overflow-hidden shadow-lg">
-              <img
-                src="/DMC/new photos/IMG_3929.JPG"
-                alt="Diamond Management Co team"
-                className="w-full h-full object-cover"
-              />
+                <img
+                  src="/DMC/new-photos/IMG_3929.JPG"
+                  alt="Diamond Management Co team"
+                  className="w-full h-full object-cover"
+                />
             </div>
           </div>
         </div>
