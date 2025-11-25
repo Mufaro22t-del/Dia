@@ -41,17 +41,17 @@ const services = [
 ];
 
 const storyImages = [
-  { url: "DMC/new photos/IMG_3921.JPG", alt: "Event details" },
-  { url: "DMC/new photos/IMG_4616.JPG", alt: "Styled event table" },
-  { url: "DMC/new photos/IMG_0094.JPG", alt: "Business feature" },
-  { url: "DMC/new photos/IMG_4581.JPG", alt: "Additional moment" },
+  { url: "DMC/new-photos/IMG_3921.JPG", alt: "Event details" },
+  { url: "DMC/new-photos/IMG_4616.JPG", alt: "Styled event table" },
+  { url: "DMC/new-photos/IMG_0094.JPG", alt: "Business feature" },
+  { url: "DMC/new-photos/IMG_4581.JPG", alt: "Additional moment" },
   { url: "DMC/IMG_0681.JPG", alt: "Celebration moment" },
 ];
 
 const gallery = [
-  { url: "DMC/new photos/IMG_4598.JPG", alt: "Event gallery image 1" },
-  { url: "DMC/new photos/IMG_4444.JPG", alt: "Event gallery image 2" },
-  { url: "DMC/new photos/IMG_4466.JPG", alt: "Event gallery image 3" },
+  { url: "DMC/new-photos/IMG_4598.JPG", alt: "Event gallery image 1" },
+  { url: "DMC/new-photos/IMG_4444.JPG", alt: "Event gallery image 2" },
+  { url: "DMC/new-photos/IMG_4466.JPG", alt: "Event gallery image 3" },
 ];
 
 function App() {
